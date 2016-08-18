@@ -1,0 +1,26 @@
+{
+  "name": "smartpug",
+  "version": "1.0.0",
+  "description": "wrapper for pug",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "(npmts)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/pushrocks/smartpug.git"
+  },
+  "keywords": [
+    "pug"
+  ],
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/pushrocks/smartpug/issues"
+  },
+  "homepage": "https://gitlab.com/pushrocks/smartpug#README",
+  "devDependencies": {
+    "should": "^11.1.0",
+    "typings-test": "^1.0.1"
+  }
+}
