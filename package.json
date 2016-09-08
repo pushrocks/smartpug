@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "wrapper for pug",
   "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "test": "(npmts)"
   },
@@ -20,7 +21,13 @@
   },
   "homepage": "https://gitlab.com/pushrocks/smartpug#README",
   "devDependencies": {
+    "@types/should": "^8.1.29",
     "should": "^11.1.0",
-    "typings-test": "^1.0.1"
+    "typings-test": "^1.0.3"
+  },
+  "dependencies": {
+    "pug": "^2.0.0-beta6",
+    "smartfile": "^4.0.15",
+    "typings-global": "^1.0.14"
   }
 }
