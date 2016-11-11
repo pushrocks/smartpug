@@ -1,6 +1,6 @@
 {
   "name": "smartpug",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "handle pug easily and mesh it with data",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
